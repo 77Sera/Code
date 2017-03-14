@@ -1,6 +1,6 @@
 /* 2017.3.8 ； About LinearList;
  * aim: exercise;
- * explain:  此链表为向链表，有表头，无表尾； 双
+ * explain:  此链表为双向链表，有表头，无表尾； 
  */
  
  
