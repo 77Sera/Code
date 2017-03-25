@@ -1,5 +1,5 @@
 /* 2017.3.25
- * 静态单链表 Static Linked List
+ * 静态单链表 Cursor 游标实现
  * aim: exercise
  */ 
 #include <stdio.h>
